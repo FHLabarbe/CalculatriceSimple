@@ -1,0 +1,10 @@
+# Fichiers de configuration IntelliJ
+*.iml
+.idea/
+
+# Dossier des fichiers compilés
+out/
+
+# Dossiers et fichiers générés par les outils de construction
+target/
+build/
